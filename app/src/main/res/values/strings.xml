@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">myName</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis erat imperdiet, faucibus ex quis, suscipit dolor. Curabitur pretium velit a vulputate faucibus. In dolor ex, facilisis ut massa vel, vestibulum pulvinar erat. Curabitur et volutpat ligula, ac placerat nisl. Donec volutpat cursus ipsum, vel imperdiet massa mattis at. Vivamus cursus et est in facilisis. Cras sed justo vitae elit ultrices euismod. Praesent varius a sapien eget cursus. \n
+
+Praesent vestibulum massa sem, malesuada tristique odio aliquet in. Aenean dignissim nisi a nibh sollicitudin, id volutpat sem rutrum. Nam gravida mi vitae tortor aliquet imperdiet. Donec ac ultricies sapien, non elementum dolor. Nulla facilisi. Nam in pulvinar nisi. Morbi mattis luctus nibh, a rhoncus massa suscipit id. Integer vitae risus et risus fringilla mollis at non urna. Aliquam ullamcorper gravida gravida. Etiam eget quam sit amet urna auctor aliquam. Integer pretium nunc in felis mollis sagittis. Phasellus quis mattis elit. In malesuada, orci at vehicula aliquam, nibh velit elementum nisl, et mattis lacus augue at ipsum. Nulla tempor erat vel aliquam vestibulum. \n
+
+Aenean blandit tempus commodo. Aenean convallis faucibus erat, posuere suscipit lacus hendrerit ut. Quisque sed lorem vel leo tempus feugiat vitae nec nibh. Vestibulum lobortis maximus luctus. Aliquam elementum neque massa, non feugiat urna facilisis in. Nam semper fermentum erat, sit amet ultricies nibh congue nec. Nulla non nisi non lectus venenatis laoreet sed at nunc. Nulla faucibus suscipit ligula eu imperdiet. Vestibulum gravida sit amet erat blandit aliquet. Mauris tempus et massa vitae mollis. Nunc eget justo fringilla, hendrerit nisi varius, dignissim ante. In sed rhoncus augue, vitae vulputate ex. Integer aliquam nibh congue, maximus justo nec, aliquet nibh. Praesent sed sem non nisl pellentesque aliquam. In ut dolor enim.</string>
+</resources>
